@@ -24,6 +24,23 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### 🤖 IA / Machine Learning / Deep Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/RAG%20%2F%20MCP-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### 📱 Développement Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+#### 🔁 Automatisation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 #### 🗄️ Base de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,6 +62,18 @@
 
 - 🔧 **[Repair Management App](https://github.com/iraouiibtissam/repair-management)**
   Application **Laravel & Vue.js** pour la gestion des réparations et interventions techniques.
+
+- 🤖 **Chatbot IA avec RAG & MCP**
+  Assistant conversationnel intelligent combinant **RAG (Retrieval-Augmented Generation)** et le protocole **MCP (Model Context Protocol)** pour des réponses contextualisées à partir de sources de données externes.
+
+- 🧠 **Projets Machine Learning & Deep Learning**
+  Plusieurs projets explorant des modèles de classification, prédiction et réseaux de neurones (ML classique et Deep Learning).
+
+- 📱 **Applications Mobiles (Flutter, React Native, Android/Java)**
+  Applications mobiles multiplateformes développées avec **Flutter**, **React Native**, ainsi que des applications natives Android en **Java** (Android Studio).
+
+- 🔁 **Automatisation de workflows avec n8n**
+  Mise en place de workflows automatisés (intégrations, notifications, traitement de données) via **n8n**.
 
 ---
 
