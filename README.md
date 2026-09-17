@@ -1,7 +1,6 @@
 # Salut, je suis Iraoui Ibtissam 👋
 
 🎓 Étudiante en Ingénierie des Systèmes d'Information et de Communication à l'ENSA El Jadida.
-💻 Passionnée par le développement web Full Stack (Angular, Spring Boot, Laravel, Vue.js).
 
 ---
 
